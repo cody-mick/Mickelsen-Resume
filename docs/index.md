@@ -23,46 +23,15 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
+### Office I.T. Representative
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2019 - Present`
+__Rigby Produce, Inc.__, Representative
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Assisted in the setup and implementation of the Laserfiche Document Automation and Repository System in order to reduce paper usage company wide.
+- Used Front End Web Technologies like HTML5, CSS, and JavaScript in order to design and implement web forms to be filled out and submitted through Laserfiche. 
+- Assisted in basic networking tasks such as connecting computers to a domain, and setting up an in house phone server.
+- Assisted in any and all small I.T. tasks.
 
 
 ## Service and Work History
@@ -74,6 +43,6 @@ __Service Missionary__, Scotland, Northern Ireland, Republic of Ireland
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2021 -->
 
 
