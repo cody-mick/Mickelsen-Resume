@@ -7,8 +7,8 @@ title: Cody Mickelsen's Resume
 <div id="webaddress">
 <a href="cmick@byui.edu">cmick@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/cody-mickelsen-805482183/">LinkedIn</a>
+| <a href="https://github.com/cody-mick">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
